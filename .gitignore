@@ -1,0 +1,26 @@
+# Maven/Gradle
+target/
+build/
+.gradle/
+*.jar
+*.war
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+spring-boot.log
+
+# PostgreSQL Local (si usas docker-compose o datos locales)
+data/
+*.sql.backup
