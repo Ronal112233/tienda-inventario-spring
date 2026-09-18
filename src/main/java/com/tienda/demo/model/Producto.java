@@ -1,4 +1,4 @@
-package com.tienda.demo.model;
+package com.tienda.inventario.model;
 
 import jakarta.persistence.*;
 import lombok.Data;
